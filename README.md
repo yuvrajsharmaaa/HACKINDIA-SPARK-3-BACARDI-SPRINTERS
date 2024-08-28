@@ -34,12 +34,6 @@ Ensure you have the following software installed:
 2. **Download the `accenture.pk` file:**
    - Download the accenture.pk file on your Compactible Android Phones.
 
-3. **Install the necessary dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ### Running the App
 
 1. **Start the application:**

@@ -32,8 +32,7 @@ Ensure you have the following software installed:
     ```
 
 2. **Download the `accenture.pk` file:**
-   - Download the `accenture.pk` file from [this link](#) (replace with the actual link).
-   - Place the `accenture.pk` file in the `src/ARModule/` directory.
+   - Download the accenture.pk file on your Compactible Android Phones.
 
 3. **Install the necessary dependencies:**
 
@@ -60,3 +59,12 @@ Ensure you have the following software installed:
    - Ensure you have MetaMask installed and configured.
    - Use the app to register or verify your home’s unique features on the blockchain.
 
+## Contributing
+We welcome contributions from the community. If you’d like to contribute, please fork the repository, create a new branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## Contact
+If you have any questions or need further assistance, feel free to open an issue or reach out via email.
+
+---
+
+Thank you for checking out ArchDo Bacardi Sprinters! We hope this tool makes your home improvement projects safer and more efficient.
